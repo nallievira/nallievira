@@ -1,126 +1,33 @@
-<div align="center">
+# Ellen Elvira
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
-  <img alt="Ellen Elvira — Computer Science, Backend Engineering, Machine Learning" src="./assets/header-dark.svg" width="100%">
-</picture>
+Computer Science student exploring **software engineering, machine learning, and product development** through hands-on academic and collaborative projects.
 
-</div>
+I enjoy working across the stack—from backend logic and data relationships to interactive interfaces and ML experimentation—while keeping the focus on building things that are understandable, usable, and technically grounded.
 
----
+## Selected Work
 
-## About Me
+| Project | Focus | Highlights |
+| --- | --- | --- |
+| [**MyPSKD**](https://github.com/nallievira/mypskd-case-study) | Full-stack product engineering | Learning management system built with Flutter, Node.js/Express, Firebase, real-time communication, role-based access, digital exams, and team-based development |
+| [**Handwriting Writer Identification**](https://github.com/nallievira/handwriting-writer-identification) | Machine learning & computer vision | Compared a custom CNN with InceptionV3 transfer learning for 64-class offline writer identification using TensorFlow |
+| [**Rasa Sejarah Manado**](https://github.com/nallievira/rasa-sejarah-manado-case-study) | Frontend & interaction design | Responsive interactive web experience combining cultural storytelling, search, ratings, comments, multimedia, and mobile interactions |
+| [**Laravel Social Platform**](https://github.com/nallievira/laravel-social-platform-case-study) | Backend & relational web development | Laravel social platform with profiles, posts, replies, likes, bookmarks, follow relationships, user search, and relational workflows |
 
-I'm a **Computer Science student at Universitas Tarumanagara** with hands-on experience across software development, backend integration, machine learning, and collaborative product development.
+## Technical Areas
 
-I like understanding systems end-to-end — from application logic and APIs to data, infrastructure, and user experience.
+**Languages & frameworks**  
+Python · JavaScript · PHP · Dart · Java · Flutter · Node.js · Express · Laravel
 
-Currently, I’m strengthening my foundations in **backend engineering, distributed systems, and applied machine learning** while preparing for **2027 software / technology internship opportunities**.
+**Data & AI**  
+TensorFlow · CNNs · Transfer Learning · Firebase / Firestore · Relational Data Modeling
 
----
+**Engineering**  
+REST APIs · Authentication & Authorization · Git / GitHub · Full-Stack Development · Responsive Web Development
 
-## Tech Stack
+## What I’m Building Toward
 
-### Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=python,js,php,dart,java" />
-</p>
-
-### Frameworks & Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,flutter" />
-</p>
-
-### Data, ML & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,tensorflow,git,github,vscode" />
-</p>
+I’m currently strengthening my foundations in **software engineering and machine learning**, with particular interest in systems that combine intelligent models with practical products.
 
 ---
 
-## Featured Work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### [MyPSKD](https://github.com/nallievira/mypskd-case-study)
-
-**Full-Stack Product Engineering**
-
-Learning management system for students, teachers, and administrators.
-
-**Built with:** Flutter · Node.js · Express · Firebase / Firestore · JWT · RBAC
-
-Highlights include assignments, attendance, grading, communication, digital exams, role-based access, and end-to-end product delivery.
-
-</td>
-<td width="50%" valign="top">
-
-### [Distributed Systems Case Study](https://github.com/nallievira/distributed-systems-vpn-chat-case-study)
-
-**Networks · Infrastructure · Application Layer**
-
-Academic case study covering secure communication across segmented networks.
-
-**Topics:** GNS3 · Cisco ASAv · OSPF · VLSM · NAT · Site-to-Site IPsec VPN · Python sockets · Nginx · HTTPS
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### [Handwriting Writer Identification](https://github.com/nallievira/handwriting-writer-identification)
-
-**Machine Learning & Computer Vision**
-
-Compared a custom CNN with InceptionV3 transfer learning for **64-class writer identification** using **6,400 handwriting images**.
-
-InceptionV3 achieved **66.87% validation accuracy**, outperforming the CNN baseline by **10.93 percentage points**.
-
-</td>
-<td width="50%" valign="top">
-
-### [Laravel Social Platform](https://github.com/nallievira/laravel-social-platform-case-study)
-
-**Backend & Relational Web Development**
-
-Laravel-based social platform with profiles, posts, replies, likes, bookmarks, follow relationships, user search, and relational application workflows.
-
-Focus areas included route-controller-model integration, user interactions, and backend debugging.
-
-</td>
-</tr>
-</table>
-
-### Also built
-
-- [**Rasa Sejarah Manado**](https://github.com/nallievira/rasa-sejarah-manado-case-study) — responsive interactive web experience combining cultural storytelling, search, ratings, comments, multimedia, and mobile behavior.
-
----
-
-## Current Focus
-
-`Backend Engineering` · `Distributed Systems` · `Machine Learning` · `Product Development`
-
-I’m especially interested in projects where software has to work across multiple layers — application logic, data, infrastructure, and real user needs.
-
----
-
-## A Little More About Me
-
-Beyond technical projects, I also work as a **Mandarin instructor**, and I’ve spent years in **public speaking, event hosting, and performance**. Those experiences have shaped how I communicate technical ideas, collaborate with people, and present work clearly.
-
----
-
-<div align="center">
-
-### Keep building. Keep understanding.
-
-
-</div>
+More projects and academic work are available in my repositories. The projects above are the ones I’d recommend starting with.
