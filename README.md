@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0D1117,100:1F2937&text=Ellen%20Elvira&fontColor=FFFFFF&fontSize=48&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%7C%20Backend%20%7C%20Machine%20Learning&descAlignY=56&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:3B2A00,55:B8860B,100:FFD700&text=Ellen%20Elvira&fontColor=FFF8DC&fontSize=48&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%7C%20Backend%20%7C%20Machine%20Learning&descAlignY=56&descSize=18" width="100%" />
 
 ### Building practical software, exploring intelligent systems, and learning how the pieces fit together.
 
@@ -122,6 +122,6 @@ Beyond technical projects, I also work as a **Mandarin instructor**, and I’ve 
 
 ### Keep building. Keep understanding.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0D1117,100:1F2937" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3B2A00,55:B8860B,100:FFD700" width="100%" />
 
 </div>
