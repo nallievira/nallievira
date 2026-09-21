@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:3B2A00,55:B8860B,100:FFD700&text=Ellen%20Elvira&fontColor=FFF8DC&fontSize=48&animation=fadeIn&fontAlignY=36&desc=Computer%20Science%20%7C%20Backend%20%7C%20Machine%20Learning&descAlignY=56&descSize=18" width="100%" />
-
-### Building practical software, exploring intelligent systems, and learning how the pieces fit together.
-
-Jakarta, Indonesia
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/header-light.svg">
+  <img alt="Ellen Elvira — Computer Science, Backend Engineering, Machine Learning" src="./assets/header-dark.svg" width="100%">
+</picture>
 
 </div>
 
@@ -122,6 +122,5 @@ Beyond technical projects, I also work as a **Mandarin instructor**, and I’ve 
 
 ### Keep building. Keep understanding.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3B2A00,55:B8860B,100:FFD700" width="100%" />
 
 </div>
